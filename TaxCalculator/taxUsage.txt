@@ -1,0 +1,9 @@
+
+Compilation:
+
+g++ -o [object file] [cpp file]
+
+Run Command:
+
+./[object file]
+
